@@ -1,17 +1,15 @@
-# Spanish translation for flatpak.
-# Copyright (C) 2017 THE PACKAGE'S COPYRIGHT HOLDER
+# Hindi translation for flatpak.
+# Copyright (C) 2021 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the flatpak package.
-# Aitor González Fernández <reimashi@gmail.com>, 2017.
-# Rodrigo Lledó <rodhos92@gmail.com>, 2020.
-# Daniel Mustieles <daniel.mustieles@gmail.com>, 2020.
+# Dmitry <dmitrydmitry761@gmail.com>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: flatpak master\n"
 "Report-Msgid-Bugs-To: https://github.com/flatpak/flatpak/issues\n"
-"POT-Creation-Date: 2021-08-31 18:07+0100\n"
-"PO-Revision-Date: 2021-09-11 00:53+0700\n"
-"Language-Team: Spanish - Spain <gnome-es-list@gnome.org>\n"
+"POT-Creation-Date: 2021-09-11 01:07+0100\n"
+"PO-Revision-Date: 2021-09-11 01:37+0700\n"
+"Language-Team: Hindi - Hindi <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
