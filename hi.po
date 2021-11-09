@@ -9,13 +9,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/flatpak/flatpak/issues\n"
 "POT-Creation-Date: 2021-09-11 01:07+0100\n"
 "PO-Revision-Date: 2021-09-11 01:37+0700\n"
-"Language-Team: Hindi - Hindi <gnome-es-list@gnome.org>\n"
+"Language-Team: Hindi - Hindi <gnome-hi-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
 "X-Generator: Poedit 2.2.4\n"
-"Last-Translator: \n"
+"Last-Translator: Dmitry <dmitrydmitry761@gmail.com>\n"
 "Language: hi\n"
 
 #: app/flatpak-builtins-build-bundle.c:57
@@ -4990,8 +4990,7 @@ msgstr "से विस्थापित होने में विफल %
 #: common/flatpak-run.c:3900
 #, c-format
 msgid "Failed to migrate old app data directory %s to new name %s: %s"
-msgstr ""
-"पुराने एप्लिकेशन डेटा निर्देशिका को स्थानांतरित करने में विफल %s नए नाम के लिए %s: %s"
+msgstr "पुराने एप्लिकेशन डेटा निर्देशिका को स्थानांतरित करने में विफल %s नए नाम के लिए %s: %s"
 
 #: common/flatpak-run.c:3909
 #, c-format
@@ -5685,9 +5684,7 @@ msgid "Add OCI registry"
 msgstr "OCI रजिस्ट्री जोड़ें"
 
 msgid "Found in remote %s\n"
-msgstr ""
-"रिमोट में मिला %s\n"
-"\n"
+msgstr "रिमोट में मिला %s\n"
 
 msgid "Found in remote %s, do you want to install it?"
 msgstr "रिमोट %s में मिला, क्या आप इसे इंस्टाल करना चाहते हैं?"
@@ -5696,9 +5693,7 @@ msgid "Found in several remotes:\n"
 msgstr "कई दूरस्थ स् में मिला:\n"
 
 msgid "The required runtime %s was not found in a configured remote.\n"
-msgstr ""
-"आवश्यक रनटाइम %s कॉन्फ़िगर किए गए रिमोट में नहीं मिला।\n"
-"\n"
+msgstr "आवश्यक रनटाइम %s कॉन्फ़िगर किए गए रिमोट में नहीं मिला।\n"
 
 msgid "%s already installed, skipping\n"
 msgstr "%s पहले से स्थापित, लंघन\n"
