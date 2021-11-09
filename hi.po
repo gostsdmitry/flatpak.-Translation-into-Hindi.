@@ -1205,8 +1205,7 @@ msgstr "चेतावनी: रेफरी '%s' ('%s' का रनटाइ
 
 #: app/flatpak-builtins-create-usb.c:482
 msgid "MOUNT-PATH [REF…] - Copy apps or runtimes onto removable media"
-msgstr ""
-"माउंट-पैच [रेफ…] - हटाने योग्य मीडिया पर एप्लिकेशन या रनटाइम्स की प्रतिलिपि बनाएँ"
+msgstr "माउंट-पैच [रेफ…] - हटाने योग्य मीडिया पर एप्लिकेशन या रनटाइम्स की प्रतिलिपि बनाएँ"
 
 #: app/flatpak-builtins-create-usb.c:491
 msgid "MOUNT-PATH and REF must be specified"
@@ -1244,8 +1243,7 @@ msgstr "चेतावनी: दूरस्थ के लिए रेपो 
 #: app/flatpak-builtins-create-usb.c:749
 #, c-format
 msgid "Warning: Couldn't update appstream data for remote ‘%s’ arch ‘%s’: %s\n"
-msgstr ""
-"चेतावनी: रिमोट के लिए अपस्ट्रीम डेटा को अपडेट नहीं किया जा सका ‘%s’ आर्च ‘%s’: %s\n"
+msgstr "चेतावनी: रिमोट के लिए अपस्ट्रीम डेटा को अपडेट नहीं किया जा सका ‘%s’ आर्च ‘%s’: %s\n"
 
 #. Print a warning if both appstream and appstream2 are missing
 #: app/flatpak-builtins-create-usb.c:782
@@ -1611,7 +1609,7 @@ msgstr " - इतिहास दिखाएं"
 
 #: app/flatpak-builtins-history.c:474
 msgid "Failed to parse the --since option"
-msgstr "--जबसे विकल्प पार्स करने में विफल"
+msgstr "--since options पार्स करने में विफल"
 
 #: app/flatpak-builtins-history.c:485
 msgid "Failed to parse the --until option"
