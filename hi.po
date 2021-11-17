@@ -231,7 +231,7 @@ msgstr "सत्र बस कॉल लॉग करें"
 
 #: app/flatpak-builtins-build.c:205
 msgid "DIRECTORY [COMMAND [ARGUMENT…]] - Build in directory"
-msgstr "निर्देशिका [कमांड [तर्क...]] - निर्देशिका में बनाएँ"
+msgstr "निर्देशिका [कमांड [तर्क…]] - निर्देशिका में बनाएँ"
 
 #: app/flatpak-builtins-build.c:228 app/flatpak-builtins-build-finish.c:646
 msgid "DIRECTORY must be specified"
@@ -603,7 +603,7 @@ msgstr "विस्तार बिंदु जानकारी जोड़
 
 #: app/flatpak-builtins-build-finish.c:55 app/flatpak-builtins-build-init.c:63
 msgid "NAME=VARIABLE[=VALUE]"
-msgstr "नाम=चर[=मूल्य]"
+msgstr "नाम=चर[=मान]"
 
 #: app/flatpak-builtins-build-finish.c:56
 msgid "Remove extension point info"
@@ -2201,7 +2201,7 @@ msgstr "पिंस मिलान निकालें"
 
 #: app/flatpak-builtins-pin.c:57
 msgid "[PATTERN…] - disable automatic removal of runtimes matching patterns"
-msgstr "[पैटर्न...] - runtimes मिलान पैटर्न के स्वचालित हटाने को अक्षम करें"
+msgstr "[पैटर्न…] - runtimes मिलान पैटर्न के स्वचालित हटाने को अक्षम करें"
 
 #: app/flatpak-builtins-pin.c:74
 msgid "No pinned patterns\n"
@@ -3015,7 +3015,7 @@ msgstr "निर्दिष्ट फ़ाइल विवरणक के �
 
 #: app/flatpak-builtins-run.c:110
 msgid "APP [ARGUMENT…] - Run an app"
-msgstr "एपीपी [तर्क...] - एक ऐप चलाएं"
+msgstr "एपीपी [तर्क…] - एक ऐप चलाएं"
 
 #: app/flatpak-builtins-run.c:254
 #, c-format
@@ -3081,7 +3081,7 @@ msgstr "के लिए डेटा हटाएं %s?"
 
 #: app/flatpak-builtins-uninstall.c:155
 msgid "[REF…] - Uninstall an application"
-msgstr "[रेफरी...] - आवेदन निकालें।"
+msgstr "[रेफरी…] - आवेदन निकालें।"
 
 #: app/flatpak-builtins-uninstall.c:164
 msgid "Must specify at least one REF, --unused, --all or --delete-data"
@@ -3150,7 +3150,7 @@ msgstr "केवल इस उपपथ को अपडेट करें"
 
 #: app/flatpak-builtins-update.c:90
 msgid "[REF…] - Update applications or runtimes"
-msgstr "[रेफरी...] - एप्लिकेशन या रनटाइम्स अपडेट करें"
+msgstr "[रेफरी…] - एप्लिकेशन या रनटाइम्स अपडेट करें"
 
 #: app/flatpak-builtins-update.c:121
 msgid "With --commit, only one REF may be specified"
@@ -3990,8 +3990,8 @@ msgid ""
 "Unknown filesystem location %s, valid locations are: host, host-os, host-"
 "etc, home, xdg-*[/…], ~/dir, /dir"
 msgstr ""
-"अज्ञात फ़ाइल सिस्टम स्थान %s, मान्य स्थान हैं: होस्ट, होस्ट-ओएस, होस्ट-आदि, "
-"घर, xdg-*[/…], ~ / dir, / dir"
+"अज्ञात फ़ाइल सिस्टम स्थान %s, मान्य स्थान हैं: होस्ट, होस्ट-ओएस, होस्ट-"
+"आदि, घर, xdg-*[/…], ~/dir, /dir"
 
 #: common/flatpak-context.c:1114
 #, c-format
